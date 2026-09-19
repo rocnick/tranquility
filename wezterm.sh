@@ -10,4 +10,4 @@ apt update && apt install wezterm -y
 # Install config file to home dir
 mkdir -p ~/Documents/wallpapers
 cp .wezterm.lua ~/.wezterm.lua
-cp sudo.png ~/Documents/wallpapers/sudo.png
+cp assets/sudo.png ~/Documents/wallpapers/sudo.png
